@@ -1,8 +1,8 @@
 # Terminal-Snake-Game
 Programmed using Python
 
-# Rules
+## Rules
 Snake Dies if it hit itself or walls. Eat food for points. 
 
-# Controls
+## Controls
 Arrow keys
